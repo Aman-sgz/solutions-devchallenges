@@ -17,7 +17,7 @@
 <p align= "center">*Updated every time I finished a challenge.</p>
 </div>
 
-### Table of Contents
+## Table of Contents
 - [Responsive Web Developer](#responsive-web-developer) 
 - [Front-end Developer](#front-end-developer)  
 - [Full-stack Developer](#full-stack-developer)  
@@ -25,7 +25,7 @@
 
 ---
 
-#### Responsive Web Developer
+### Responsive Web Developer
 
 Built with HTML, CSS and Javascript depends on the challenge.  
 
@@ -39,7 +39,7 @@ Built with HTML, CSS and Javascript depends on the challenge.
 - Portfolio
 
 ---
-#### Front-end Developer
+### Front-end Developer
 
 - Button component
 - Input component
@@ -51,7 +51,7 @@ Built with HTML, CSS and Javascript depends on the challenge.
 - Github jobs
 
 ---
-#### Full-stack Developer
+### Full-stack Developer
 
 - Image Uploader
 - My Unsplash
@@ -66,7 +66,7 @@ Built with HTML, CSS and Javascript depends on the challenge.
 
 ---
 
-####  Contact
+###  Contact
 
 - Github Repositories [@Aman-sgz](https://github.com/Aman-sgz/)
 
