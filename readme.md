@@ -1,4 +1,4 @@
-![portada devchallenges](assets/portada.png)
+![portada devchallenges](assets/portada1.png)
 
 
 <h1 align= "center">DevChallenges</h1>
