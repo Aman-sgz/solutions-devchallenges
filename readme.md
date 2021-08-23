@@ -30,8 +30,8 @@
 Built with HTML, CSS and Javascript depends on the challenge.  
 
 - [404 Not Found](https://github.com/Aman-sgz/404_not-found)
-- My team page
-- Interior consultant
+- [My team page](https://github.com/Aman-sgz/My-Team_Page)
+- [Interior consultant](https://github.com/Aman-sgz/interior-consultant)
 - Recipe page
 - My gallery
 - Checkout page
