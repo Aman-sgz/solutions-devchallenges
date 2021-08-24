@@ -68,11 +68,9 @@ Built with HTML, CSS and Javascript depends on the challenge.
 
 ###  Contact
 
-- Github Repositories [@Aman-sgz](https://github.com/Aman-sgz/)
+- Github [@Aman-sgz](https://github.com/Aman-sgz/)
 
-- Frontend Mentor [@Aman-sgz](https://www.frontendmentor.io/profile/Aman-sgz)
-
-- Twitter Aman [@Aman_arg](https://www.twitter.com/Aman_arg)  
+- Twitter [@Aman_arg](https://www.twitter.com/Aman_arg)  
 
 
 ---
